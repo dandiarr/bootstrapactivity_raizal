@@ -21,18 +21,18 @@ body{
   background-blend-mode: overlay;
 }
 
-.btn-primary{
+.btn-success{
   background-color:#ea383c !important;
   border: none !important;
 }
 
-.btn-primary:hover{
+.btn-success:hover{
   background-color:rgba(234, 56, 59, 0.7) !important;
   border: none !important;
 }
 
 
-.btn-primary-shadow{
+.btn--shadow{
   box-shadow: .1rem .3rem .5rem rgba(0, 0, 0, 0.5);
 }
 
